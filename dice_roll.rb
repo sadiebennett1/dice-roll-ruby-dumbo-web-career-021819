@@ -6,5 +6,5 @@ def roll
   # # code goes here
   return rand(1..6)
   # nums = [1,2,3,4,5,6]
-  # return 
+  # return
 end
